@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Outer Spaces</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 28 Jan 2024 20:35:41 -0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://lospi.github.io/OuterSpaces-Releases/Outer%20Spaces.dmg" length="9982700" type="application/octet-stream" sparkle:edSignature="5oHYh+ZKJkmK4t680iSjjc9ap0h6JpeFD2p2iVE100nAEQGESYH6Y21aCwAR5mwSZLgGk9pMibZL0D0pn7nFAQ=="/>
+        </item>
+    </channel>
+</rss>
