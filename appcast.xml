@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://lospi.github.io/OuterSpaces-Releases/Outer%20Spaces.dmg" length="10028969" type="application/octet-stream" sparkle:edSignature="M2kZbYZBULJCW6Qt5cNuDuyxQyWzONFOc27YqqXeo915mLGr8yp/n1Z2cgsj4KMX9jqo3BognbHr7RoJYEioAw=="/>
+            <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/Pre-release/Outer.Spaces.dmg" length="10028969" type="application/octet-stream" sparkle:edSignature="M2kZbYZBULJCW6Qt5cNuDuyxQyWzONFOc27YqqXeo915mLGr8yp/n1Z2cgsj4KMX9jqo3BognbHr7RoJYEioAw=="/>
         </item>
     </channel>
 </rss>
