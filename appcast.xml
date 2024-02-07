@@ -3,6 +3,17 @@
     <channel>
         <title>Outer Spaces</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 07 Feb 2024 10:21:08 -0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/v0.1.1/Outer.Spaces.0.1.1.dmg" length="10046511" type="application/octet-stream" sparkle:edSignature="2nlReDVQA8M1oPcso1mKeQrByVGqF5vFpQI8Ym1O0qnxlKJ0f/lTYHjTwVMThQUF/LO84FgvzjERpg+eR/HwBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/v0.1.1/Outer.Spaces2-1.delta" sparkle:deltaFrom="1" length="680658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Jkva4h8UAZS4JEc2BPKCEGn4tpRURT4n7hZclDXCswt/BMKCc60txPBA47TVTWA+0K2JSTgA+KseIQBFEwq1Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Tue, 06 Feb 2024 15:49:45 -0300</pubDate>
             <sparkle:version>1</sparkle:version>
