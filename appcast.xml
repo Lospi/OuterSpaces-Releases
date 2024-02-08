@@ -3,6 +3,18 @@
     <channel>
         <title>Outer Spaces</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 08 Feb 2024 10:15:31 -0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/v0.1.2/Outer.Spaces_013.dmg" length="10760858" type="application/octet-stream" sparkle:edSignature="yK8Rx1s/61zjHgiP1IoRcey++kvGhXJTG1WGMiBxG8uSBujfMqCVrax3YFArwtirBQI3K95S1DYFm1GG3+v1DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/v0.1.2/Outer.Spaces3-2.delta" sparkle:deltaFrom="2" length="1458226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wZrWW29aY9lmAnkRpWSdxxjsEkwuBnvwUmmtM1a9qcS/Sq/AcpBsx7zrkqtQ3bf2tuXAYMq2KtmxX40SVuSxDg=="/>
+                <enclosure url="https://github.com/Lospi/OuterSpaces-Releases/releases/download/v0.1.2/Outer.Spaces3-1.delta" sparkle:deltaFrom="1" length="1474162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Kt/hqkHGrW3Unhl2ZhlAJVMGt/b3a2Mtpmo3Df40WC5E/66SMR/V8QADIXzAK4qrsU+PguMLT8E/M+6uZMAkDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 07 Feb 2024 10:21:08 -0300</pubDate>
             <sparkle:version>2</sparkle:version>
